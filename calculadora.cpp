@@ -1,7 +1,5 @@
 #include <iostream>
 using namespace std;
-// o compilador gera tudo de uma vez só entao nao funciona corretamente
-// no vscode funciona normal, em outros compiladores deve ser a mesma coisa
 
 int main () {
 
